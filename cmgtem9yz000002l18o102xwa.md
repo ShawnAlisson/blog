@@ -4,7 +4,7 @@ seoDescription: "In Feb 2025, we started Bestofweb.site as a minimal startup dir
 datePublished: Thu Oct 16 2025 12:36:40 GMT+0000 (Coordinated Universal Time)
 cuid: cmgtem9yz000002l18o102xwa
 slug: building-bestofweb-site-directory-to-automation-suite
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1760617932673/c0ce6514-4d61-4ef6-9dbc-595393efde53.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1760618656940/91ba180d-1c73-4b46-bf0e-c3dcfbe21f49.png
 tags: ai, startups, devtools, automation, entrepreneurship, product, content-marketing
 
 ---
